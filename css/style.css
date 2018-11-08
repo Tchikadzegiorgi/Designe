@@ -1,0 +1,103 @@
+/* base */
+.opacity {
+	opacity: 0.4;
+}
+.font-size16px {
+	font-size: 16px;
+}
+.marginbt40 {
+	margin-bottom: 40px;
+}
+
+
+/* base */
+
+
+.hover1:hover {
+	background-color: #ccc;
+}
+.brarch {
+	font-size: 20px;
+    color: white!important;
+    
+}
+
+
+/* start */
+
+.padding8{
+	padding: 15px;
+	background-color: rgba(1, 1, 1, 0.7);
+	color: white;
+}
+.giorgi {
+	font-size: 20px;
+}
+
+.img1{
+	background: url("../img/architect.jpg");
+	height: 600px;
+
+}
+
+/* start */
+
+
+
+
+
+/* Project */
+
+
+.project {
+	border-bottom: 2px solid gray;
+	padding-bottom: 20px;
+	padding-top: 40px;"
+}
+
+
+.imggrid {
+	background: url("../img/h.jpg");
+	height: 200px;
+	margin-bottom: 20px;
+	
+
+}
+.text {
+	padding: 20px;
+	background-color: black;
+	color: white;
+	
+}
+.img2sms { 
+	background-color: black;
+	color: white;
+	font-size: 25px;
+	padding: 4px;
+}
+
+
+/* Project */
+
+.mappp{
+	margin-top: 50px;
+}
+.mybt {
+	font-size: 20px;
+	background-color: #000;
+	border: 0;
+}
+.mybt:hover {
+	background-color: #ccc;
+	color: #000;
+	border: 0;
+}
+
+
+
+.footer1 {
+	background-color: #000;
+	color: #fff;
+}
+
+
